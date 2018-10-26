@@ -10,6 +10,7 @@ if ( isset($_GET['but']) )
 
 $pic='ПРиВет '.$data['name'].'<br><img src="bg.jpg" alt="">';
 echo $pic;
+ echo "string";
 
 
 }
